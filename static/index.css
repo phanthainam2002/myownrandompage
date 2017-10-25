@@ -38,6 +38,11 @@ body{
   display: flex;
   flex-wrap: nowrap;
 
+
+}
+.cardinfo{
+ padding: 0 !important
+
 }
 
 .toptext {
